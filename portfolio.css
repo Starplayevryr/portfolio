@@ -1,0 +1,42 @@
+body{
+    background-image: url(5652030.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#header ul{
+      list-style-type: none;
+      color: rgb(217, 233, 233);
+      padding-left: 750px;
+      padding-bottom: 50px;
+      font-family: cursive;
+      font-size: medium;
+      display: flex;
+
+}
+
+#header ul li{
+    flex-direction: 50px;
+    display: inline-block;
+    margin: 0 60px;
+    
+}
+#body2{
+    border: 1px solid white;
+    margin: 20px auto;
+    width: fit-content;    
+    height: fit-content;
+    border-style: ridge;
+    
+}
+#centre{
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 20px;
+    
+   
+}
+#centre img{
+   border-radius: 50%;
+   border-color:black;
+   border-style: double;
+}
